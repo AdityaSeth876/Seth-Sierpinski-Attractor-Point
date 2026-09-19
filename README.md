@@ -1,0 +1,1 @@
+# Seth-Sierpinski-Attractor-Point
